@@ -13,5 +13,13 @@ def fibonacci(position):
 	elif position == 1:
 		return 1
 	else:
+<<<<<<< HEAD
 		return fibonacci(position - 1) + fibonacci(position - 2)
+=======
+        return fibonacci(position - 1) + fibonacci(position - 2)
+#hello
+
+
+
+>>>>>>> e49754a51cc9961db6cd056162a5e95cc4f6e6ac
 
